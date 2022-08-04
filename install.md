@@ -1,4 +1,4 @@
-# Installatio
+# Installation
 
 * If not done already, install [Teensyduino](https://www.pjrc.com/teensy/teensyduino.html)
 * Copy the folder "usb_icp" to */hardware/teensy/avr/cores* in the Arduino installation directory (on Windows, that's mostly *C:\Program Files (x86)\Arduino*)
