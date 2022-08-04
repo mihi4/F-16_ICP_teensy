@@ -1,6 +1,6 @@
-# Installation
+# Installatio
 
-* Ff not done already, install [Teensyduino](https://www.pjrc.com/teensy/teensyduino.html)
+* If not done already, install [Teensyduino](https://www.pjrc.com/teensy/teensyduino.html)
 * Copy the folder "usb_icp" to */hardware/teensy/avr/cores* in the Arduino installation directory (on Windows, that's mostly *C:\Program Files (x86)\Arduino*)
 * Copy *boards.txt* to */hardware/teensy/avr/cores* or add the following lines to the boards.txt for the Teensy++ 2.0 section, after the last occurence of "teensypp2.menu.usb":
   >teensypp2.menu.usb.icp=F-16 ICP  
