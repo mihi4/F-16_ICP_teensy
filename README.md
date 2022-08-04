@@ -7,4 +7,4 @@ It's configured to send a corresponding buttonpress for all pushbuttons (includi
 Each of the 2-position switches (SYM ON-OFF, BRT ON-OFF, DRIFT C/O-NORM) sends a short button press/release sequence when activated and one of another button when released.  
 The 3-position GAIN switch will send 3 different button press/release actions for each position.
 
-Pins 0-27 are used for all pushbuttons (includin WARN RESET), pins 28-32 for each of the active switch positions and pins 42-45 (analog pins 4-7) for the potentiometers.
+Pins 0-27 are used for all pushbuttons (including WARN RESET), pins 28-32 for each of the active switch positions and pins 42-45 (analog pins 4-7) for the potentiometers.
