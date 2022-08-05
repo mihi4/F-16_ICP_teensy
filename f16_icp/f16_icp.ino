@@ -79,7 +79,6 @@ void loop() {
 	Gamepad.Y(analogRead(analogPins[5]));
 	Gamepad.RX(analogRead(analogPins[6])); 
 	Gamepad.RY(analogRead(analogPins[7]));
-
 	
 	// more to do for the switches
 	// first, the 2-position
@@ -97,4 +96,5 @@ void loop() {
 		}
 	}
 	
+	delay(5);
 }
