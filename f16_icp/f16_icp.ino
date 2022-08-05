@@ -75,10 +75,10 @@ void loop() {
 		} 		
 	}
 	
-	Gamepad.X(analogRead(analogPins[0]));
-	Gamepad.Y(analogRead(analogPins[1]));
-	Gamepad.RX(analogRead(analogPins[2])); 
-	Gamepad.RY(analogRead(analogPins[3]));
+	Gamepad.X(analogRead(analogPins[4]));
+	Gamepad.Y(analogRead(analogPins[5]));
+	Gamepad.RX(analogRead(analogPins[6])); 
+	Gamepad.RY(analogRead(analogPins[7]));
 
 	
 	// more to do for the switches
