@@ -18,4 +18,5 @@ Pins 0-27 are used for all pushbuttons (including WARN RESET), pins 28-32 for ea
 
 The directory "f16_icp" holds the .ino file for the ArduinoIDE.
 
+Here's my version of the buttons (no switches yet) to connect to the Teensy.
 ![myICP](pics/myIcp.jpg)
