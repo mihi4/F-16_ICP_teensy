@@ -20,3 +20,5 @@ The directory "f16_icp" holds the .ino file for the ArduinoIDE.
 
 Here's my version of the buttons (no switches and potentiometers yet) to connect to the Teensy.
 ![myICP](pics/myIcp.jpg)
+
+Thanks to Les at Pointy's World (http://www.planetpointy.co.uk) for the great description on how to create a Joystick with a Teensy++ 2.0.
