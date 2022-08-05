@@ -1,7 +1,7 @@
 # F-16_ICP_teensy
 ## Using a Teensy++ 2.0 to simulate the inputs of an F-16 ICP
 
-![F-16 ICP](https://www.xflight.de/original/parts/center_console/icp/icp_01.gif)  
+![F-16 ICP](pics/icp_01.gif)  
 Image (c) Martin Schmitt, https://xflight.de
 
 This firmware is used to connect all possible buttons, switches and potentiometers of a DIY F-16 ICP to the computer and get detected by Windows as a Joystick.
