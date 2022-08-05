@@ -18,4 +18,4 @@ Pins 0-27 are used for all pushbuttons (including WARN RESET), pins 28-32 for ea
 
 The directory "f16_icp" holds the .ino file for the ArduinoIDE.
 
-!(myICP)[pics/myIcp.jpg]
+![myICP](pics/myIcp.jpg)
