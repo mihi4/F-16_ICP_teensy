@@ -8,3 +8,5 @@ Each of the 2-position switches (SYM ON-OFF, BRT ON-OFF, DRIFT C/O-NORM) sends a
 The 3-position GAIN switch will send 3 different button press/release actions for each position.
 
 Pins 0-27 are used for all pushbuttons (including WARN RESET), pins 28-32 for each of the active switch positions and pins 42-45 (analog pins 4-7) for the potentiometers.
+
+The directory "f16_icp" holds the .ino file for the ArduinoIDE.
