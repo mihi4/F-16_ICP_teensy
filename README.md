@@ -22,3 +22,10 @@ Here's my version of the buttons (no switches and potentiometers yet) to connect
 ![myICP](pics/myIcp.jpg)
 
 Thanks to Les at Pointy's World (http://www.planetpointy.co.uk) for the great description on how to create a Joystick with a Teensy++ 2.0.
+
+## !!! Use those files at your own risk !!!
+
+All the files are free to use under the GNUGPLv3
+
+If you find those files useful and would like to support me with an icecream, coffee or pizza, you can use paypal.me to to so ;)  
+[Paypal.me](https://paypal.me/MichiHirczy)
